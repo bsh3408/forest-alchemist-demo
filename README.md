@@ -5,6 +5,8 @@
 
 **바로 하기:** https://bsh3408.github.io/forest-alchemist-demo/
 
+**우리 학교용 주소 만들기:** [`SETUP.md`](SETUP.md) 파일을 AI 코딩 도우미(Claude Code, Codex 등)에게 주고 “이 파일대로 해줘”라고 하면 내 GitHub에 게임이 복사되고 주소까지 만들어집니다. AI 없이 직접 하는 방법도 그 파일에 있습니다.
+
 ---
 
 ## 1. 준비물
@@ -73,7 +75,7 @@
 새로고침(F5)하고 ‘연금술 여정 시작하기’를 누르면 저장된 곳부터 이어집니다.
 
 **Q. 우리 학교 버전으로 따로 쓰고 싶어요.**
-이 저장소를 Fork한 뒤 Settings → Pages에서 `main` 브랜치를 켜면 나만의 주소가 생깁니다. 게임 파일은 모두 정적 HTML·JS라 별도 서버가 필요 없습니다.
+[`SETUP.md`](SETUP.md)를 AI 도우미에게 주거나, 그 파일의 「직접 하기」대로 **Use this template** → Settings → Pages에서 `main` 브랜치를 켜면 나만의 주소가 생깁니다. 게임 파일은 모두 정적 HTML·JS라 별도 서버가 필요 없습니다.
 
 ---
 
